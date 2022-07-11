@@ -2,6 +2,6 @@
   "output": "generated/wandernauts.",
   "chain": "mainnet",
   "datasources": [
-    { "address": "0x793DAf78B74aadF1EDA5Cc07A558fed932360a60", "startBlock": 14456014, "module": [ "erc721", "accesscontrol", "pausable"] }
+    { "address": "0x793DAf78B74aadF1EDA5Cc07A558fed932360a60", "startBlock": 14456014, "module": ["erc721", "naut"] }
   ]
 }
